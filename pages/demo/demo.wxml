@@ -1,0 +1,14 @@
+
+<text>pages/demo/demo.wxml</text>
+<view>杨伟伟十个大笨蛋</view>
+<view>{{person.name}}</view>
+<view>{{person.age}}</view>
+<view>
+    {{person.sex}}
+</view>
+
+<button bindtap="handleTap" data-operation="{{1}}">+</button>
+<button bindtap="handleTap" data-operation="{{-1}}">-</button>
+<view>
+    {{num}}
+</view>
