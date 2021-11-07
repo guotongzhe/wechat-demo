@@ -7,5 +7,5 @@
 			{{item.name}}
 		</view>
 	</view>
-	<view class="content">内容123</view>
+	<view class="content">内容123456</view>
 </view>
